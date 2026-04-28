@@ -11,6 +11,12 @@ Internship project at the Champalimaud Learning Lab focused on multimodal tempor
 
 I developed pipelines to correct clock drift between behavioural state-machine logs, high-speed video, and Neuropixels electrophysiology by detecting anchor events and fitting a robust linear warp. The work combines computer vision, signal processing, and large-scale experimental data analysis.
 
+###Digital Brain: Neuro-Symbolic Memory System
+Personal project building a provenance-aware memory substrate for continual knowledge consolidation.
+
+I engineered an end-to-end pipeline that ingests top-down writing (Emacs Org-mode) and bottom-up artifacts (chat logs, web clips, PDFs) into a dual memory system combining dense vector embeddings with a symbolic knowledge graph. The architecture features an automated consolidation loop to merge claims and flag contradictions, a LangGraph-powered orchestrator for adaptive multi-hop reasoning, and interactive D3.js visualizations that map conceptual clusters using community detection and PageRank centrality.
+
+
 ### Ml-Music-Genre-Classification- Mathematics for Machine Learning course project.
 I compared:
 - PCA and Kernel PCA
