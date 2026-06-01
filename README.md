@@ -27,3 +27,12 @@ My contributions:
 Implemented a BI-LSTM with attention for the regression task of predicting interaction affinity
 Generated heatmap visualization for interpretability and explainability of the attention weights
 Wrote the report with the analysis of performance and hypothetical feature changes and their consequences.
+
+### Mersenne Prime Cryptosystem — Post-quantum cryptography implementation
+My contributions (Section 6 — Security Analysis):
+Designed and implemented empirical security analysis framework — replaced theoretical BSC (Binary Symmetric Channel) formulas with actual system measurements to characterize real noise distribution
+Conducted four empirical experiments: (1) noise weight distribution showing two-Gaussian separation with 6.5σ security margin, (2) BER curves with injected adversarial noise, (3) pseudorandomness Q-Q plot with Shapiro-Wilk and KS statistical tests, (4) decryption failure probability δ\delta
+δ measured across λ∈{8,10,12,16}\lambda \in \{8,10,12,16\}
+λ∈{8,10,12,16} with 95% confidence intervals
+Developed comprehensive code comparison analysis (Repetition vs Reed-Muller codes): created BER waterfall plots, code-rate efficiency charts, error-correction capacity visualizations, and Monte Carlo simulations
+
