@@ -14,7 +14,7 @@ I developed pipelines to correct clock drift between behavioural state-machine l
 ### Digital Brain: Neuro-Symbolic Memory System
 A local-first memory architecture scaled to 50,000+ nodes. I engineered a dual-engine pipeline combining dense vector embeddings with a mathematical knowledge graph, outperforming flat RAG baselines by 14% in Mean Reciprocal Rank (MRR). To prevent memory exhaustion at scale, the backend utilizes batched NumPy matrix operations and chunked database streaming. The system features an autonomous consolidation loop, a forensic "Stylistic DNA" LLM model, a LangGraph reasoning orchestrator, and a custom 60FPS D3.js Galaxy UI optimized via PageRank centrality filters.
 
-### Ml-Music-Genre-Classification- Mathematics for Machine Learning course project.
+### Ml-Music-Genre-Classification- Mathematics for Machine Learning (extra Masters course) project, best grade in the cohort
 I compared:
 - PCA and Kernel PCA
 - Eight information-theoretic feature selection methods
@@ -28,7 +28,7 @@ Implemented a BI-LSTM with attention for the regression task of predicting inter
 Generated heatmap visualization for interpretability and explainability of the attention weights
 Wrote the report with the analysis of performance and hypothetical feature changes and their consequences.
 
-### Mersenne Prime Cryptosystem — Post-quantum cryptography implementation
+### Mersenne Prime Cryptosystem — Post-quantum cryptography implementation (extra Masters course) project, best grade in the cohort
 My contributions (Section 6 — Security Analysis):
 Designed and implemented empirical security analysis framework — replaced theoretical BSC (Binary Symmetric Channel) formulas with actual system measurements to characterize real noise distribution
 Conducted four empirical experiments: (1) noise weight distribution showing two-Gaussian separation with 6.5σ security margin, (2) BER curves with injected adversarial noise, (3) pseudorandomness Q-Q plot with Shapiro-Wilk and KS statistical tests, (4) decryption failure probability δ\delta
